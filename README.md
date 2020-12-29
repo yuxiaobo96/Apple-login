@@ -1,2 +1,2 @@
 # Apple-login
-Apple第三方账号登录
+Apple第三方账号登录验证
